@@ -1,5 +1,9 @@
 # ProofOfBuild ($PROOF) — a makefun-coin-promo-01 entry
 
+[![make.fun · makefun-coin-promo-01](https://make.fun/badge/makefun-coin-promo-01.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![rank](https://make.fun/badge/makefun-coin-promo-01/NotWinSir/proofofbuild-coin-entry/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![reward](https://make.fun/badge/makefun-coin-promo-01/NotWinSir/proofofbuild-coin-entry/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+
 ProofOfBuild is a real coin launched on pump.fun for the make.fun bounty
 "Launch a coin that sells make.fun". Don't say you can build. Prove it.
 
